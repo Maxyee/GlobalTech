@@ -1,0 +1,11 @@
+C:\Users\Mohon\source\repos\GlobalTech\GlobalTech\bin\Debug\netcoreapp2.0\GlobalTech.deps.json
+C:\Users\Mohon\source\repos\GlobalTech\GlobalTech\bin\Debug\netcoreapp2.0\GlobalTech.runtimeconfig.json
+C:\Users\Mohon\source\repos\GlobalTech\GlobalTech\bin\Debug\netcoreapp2.0\GlobalTech.runtimeconfig.dev.json
+C:\Users\Mohon\source\repos\GlobalTech\GlobalTech\bin\Debug\netcoreapp2.0\GlobalTech.dll
+C:\Users\Mohon\source\repos\GlobalTech\GlobalTech\bin\Debug\netcoreapp2.0\GlobalTech.pdb
+C:\Users\Mohon\source\repos\GlobalTech\GlobalTech\obj\Debug\netcoreapp2.0\GlobalTech.csprojResolveAssemblyReference.cache
+C:\Users\Mohon\source\repos\GlobalTech\GlobalTech\obj\Debug\netcoreapp2.0\GlobalTech.csproj.CoreCompileInputs.cache
+C:\Users\Mohon\source\repos\GlobalTech\GlobalTech\obj\Debug\netcoreapp2.0\GlobalTech.AssemblyInfoInputs.cache
+C:\Users\Mohon\source\repos\GlobalTech\GlobalTech\obj\Debug\netcoreapp2.0\GlobalTech.AssemblyInfo.cs
+C:\Users\Mohon\source\repos\GlobalTech\GlobalTech\obj\Debug\netcoreapp2.0\GlobalTech.dll
+C:\Users\Mohon\source\repos\GlobalTech\GlobalTech\obj\Debug\netcoreapp2.0\GlobalTech.pdb
